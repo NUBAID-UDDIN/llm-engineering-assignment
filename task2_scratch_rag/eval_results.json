@@ -1,0 +1,290 @@
+{
+  "120w": {
+    "chunk_words": 120,
+    "overlap_words": 25,
+    "total_chunks": 178,
+    "Recall@5": 0.5333,
+    "MRR@5": 0.4389,
+    "details": [
+      {
+        "id": 1,
+        "found_rank": null,
+        "top_retrieved_doc_page": [
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\2005.11401v4.pdf:p9",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\2005.11401v4.pdf:p19",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\2005.11401v4.pdf:p6"
+        ]
+      },
+      {
+        "id": 2,
+        "found_rank": 1,
+        "top_retrieved_doc_page": [
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\2005.11401v4.pdf:p4",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\2005.11401v4.pdf:p7",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\2005.11401v4.pdf:p2"
+        ]
+      },
+      {
+        "id": 3,
+        "found_rank": 4,
+        "top_retrieved_doc_page": [
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\2005.11401v4.pdf:p3",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\2005.11401v4.pdf:p8",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\2005.11401v4.pdf:p3"
+        ]
+      },
+      {
+        "id": 4,
+        "found_rank": null,
+        "top_retrieved_doc_page": [
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\2005.11401v4.pdf:p9",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\2005.11401v4.pdf:p5",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\2005.11401v4.pdf:p17"
+        ]
+      },
+      {
+        "id": 5,
+        "found_rank": 1,
+        "top_retrieved_doc_page": [
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\2005.11401v4.pdf:p4",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\2005.11401v4.pdf:p3",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\2005.11401v4.pdf:p17"
+        ]
+      },
+      {
+        "id": 6,
+        "found_rank": 3,
+        "top_retrieved_doc_page": [
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\2005.11401v4.pdf:p19",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\2005.11401v4.pdf:p7",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\2005.11401v4.pdf:p19"
+        ]
+      },
+      {
+        "id": 7,
+        "found_rank": 1,
+        "top_retrieved_doc_page": [
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\2005.11401v4.pdf:p8",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\2005.11401v4.pdf:p9",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\2005.11401v4.pdf:p1"
+        ]
+      },
+      {
+        "id": 8,
+        "found_rank": 1,
+        "top_retrieved_doc_page": [
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\2005.11401v4.pdf:p18",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\2005.11401v4.pdf:p3",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\2005.11401v4.pdf:p12"
+        ]
+      },
+      {
+        "id": 9,
+        "found_rank": null,
+        "top_retrieved_doc_page": [
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\1706.03762v7.pdf:p3",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\1706.03762v7.pdf:p3",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\1706.03762v7.pdf:p5"
+        ]
+      },
+      {
+        "id": 10,
+        "found_rank": 1,
+        "top_retrieved_doc_page": [
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\1706.03762v7.pdf:p4",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\1706.03762v7.pdf:p4",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\1706.03762v7.pdf:p4"
+        ]
+      },
+      {
+        "id": 11,
+        "found_rank": null,
+        "top_retrieved_doc_page": [
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\1706.03762v7.pdf:p5",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\1706.03762v7.pdf:p5",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\1706.03762v7.pdf:p3"
+        ]
+      },
+      {
+        "id": 12,
+        "found_rank": null,
+        "top_retrieved_doc_page": [
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\1706.03762v7.pdf:p3",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\1706.03762v7.pdf:p5",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\1706.03762v7.pdf:p8"
+        ]
+      },
+      {
+        "id": 13,
+        "found_rank": null,
+        "top_retrieved_doc_page": [
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\1706.03762v7.pdf:p6",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\1706.03762v7.pdf:p6",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\1706.03762v7.pdf:p6"
+        ]
+      },
+      {
+        "id": 14,
+        "found_rank": 1,
+        "top_retrieved_doc_page": [
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\1706.03762v7.pdf:p7",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\1706.03762v7.pdf:p7",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\1706.03762v7.pdf:p1"
+        ]
+      },
+      {
+        "id": 15,
+        "found_rank": null,
+        "top_retrieved_doc_page": [
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\1706.03762v7.pdf:p6",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\1706.03762v7.pdf:p6",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\1706.03762v7.pdf:p9"
+        ]
+      }
+    ]
+  },
+  "350w": {
+    "chunk_words": 350,
+    "overlap_words": 60,
+    "total_chunks": 70,
+    "Recall@5": 0.4667,
+    "MRR@5": 0.4222,
+    "details": [
+      {
+        "id": 1,
+        "found_rank": null,
+        "top_retrieved_doc_page": [
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\2005.11401v4.pdf:p6",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\2005.11401v4.pdf:p2",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\2005.11401v4.pdf:p2"
+        ]
+      },
+      {
+        "id": 2,
+        "found_rank": 1,
+        "top_retrieved_doc_page": [
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\2005.11401v4.pdf:p4",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\2005.11401v4.pdf:p2",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\2005.11401v4.pdf:p7"
+        ]
+      },
+      {
+        "id": 3,
+        "found_rank": 1,
+        "top_retrieved_doc_page": [
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\2005.11401v4.pdf:p3",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\2005.11401v4.pdf:p8",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\2005.11401v4.pdf:p18"
+        ]
+      },
+      {
+        "id": 4,
+        "found_rank": null,
+        "top_retrieved_doc_page": [
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\2005.11401v4.pdf:p5",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\2005.11401v4.pdf:p2",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\2005.11401v4.pdf:p4"
+        ]
+      },
+      {
+        "id": 5,
+        "found_rank": 1,
+        "top_retrieved_doc_page": [
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\2005.11401v4.pdf:p4",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\2005.11401v4.pdf:p4",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\2005.11401v4.pdf:p17"
+        ]
+      },
+      {
+        "id": 6,
+        "found_rank": null,
+        "top_retrieved_doc_page": [
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\2005.11401v4.pdf:p8",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\2005.11401v4.pdf:p7",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\2005.11401v4.pdf:p2"
+        ]
+      },
+      {
+        "id": 7,
+        "found_rank": null,
+        "top_retrieved_doc_page": [
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\2005.11401v4.pdf:p2",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\2005.11401v4.pdf:p4",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\2005.11401v4.pdf:p9"
+        ]
+      },
+      {
+        "id": 8,
+        "found_rank": 1,
+        "top_retrieved_doc_page": [
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\2005.11401v4.pdf:p18",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\2005.11401v4.pdf:p3",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\1706.03762v7.pdf:p7"
+        ]
+      },
+      {
+        "id": 9,
+        "found_rank": null,
+        "top_retrieved_doc_page": [
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\1706.03762v7.pdf:p3",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\1706.03762v7.pdf:p5",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\1706.03762v7.pdf:p9"
+        ]
+      },
+      {
+        "id": 10,
+        "found_rank": 1,
+        "top_retrieved_doc_page": [
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\1706.03762v7.pdf:p4",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\1706.03762v7.pdf:p4",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\1706.03762v7.pdf:p5"
+        ]
+      },
+      {
+        "id": 11,
+        "found_rank": null,
+        "top_retrieved_doc_page": [
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\1706.03762v7.pdf:p3",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\1706.03762v7.pdf:p5",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\1706.03762v7.pdf:p9"
+        ]
+      },
+      {
+        "id": 12,
+        "found_rank": null,
+        "top_retrieved_doc_page": [
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\1706.03762v7.pdf:p3",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\1706.03762v7.pdf:p5",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\1706.03762v7.pdf:p9"
+        ]
+      },
+      {
+        "id": 13,
+        "found_rank": null,
+        "top_retrieved_doc_page": [
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\1706.03762v7.pdf:p6",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\1706.03762v7.pdf:p6",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\1706.03762v7.pdf:p2"
+        ]
+      },
+      {
+        "id": 14,
+        "found_rank": 1,
+        "top_retrieved_doc_page": [
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\1706.03762v7.pdf:p7",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\1706.03762v7.pdf:p8",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\1706.03762v7.pdf:p9"
+        ]
+      },
+      {
+        "id": 15,
+        "found_rank": 3,
+        "top_retrieved_doc_page": [
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\1706.03762v7.pdf:p9",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\1706.03762v7.pdf:p3",
+          "C:\\Users\\user\\Desktop\\PROJECTS_MAIN\\llm-engineering-assignment\\task2_scratch_rag\\data\\1706.03762v7.pdf:p6"
+        ]
+      }
+    ]
+  }
+}

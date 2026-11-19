@@ -1,0 +1,250 @@
+{"ticket_text": "Why is there an extra service fee on my invoice for ORD-2000?", "label": {"intent": "billing_issue", "urgency": "medium", "order_id": "ORD-2000", "requires_human": false}}
+{"ticket_text": "I want to return order ORD-2001 and get a refund, item arrived damaged.", "label": {"intent": "refund_request", "urgency": "medium", "order_id": "ORD-2001", "requires_human": false}}
+{"ticket_text": "Where is my package for order my recent order? Tracking hasn't moved.", "label": {"intent": "order_status", "urgency": "low", "order_id": null, "requires_human": false}}
+{"ticket_text": "Do you ship accessories outside India?", "label": {"intent": "general_query", "urgency": "low", "order_id": "ORD-2003", "requires_human": false}}
+{"ticket_text": "I cannot log into my account, password reset email is not arriving.", "label": {"intent": "account_access", "urgency": "high", "order_id": "ORD-2004", "requires_human": true}}
+{"ticket_text": "Why is there an extra service fee on my invoice for ORD-2005?", "label": {"intent": "billing_issue", "urgency": "medium", "order_id": "ORD-2005", "requires_human": false}}
+{"ticket_text": "Do you ship accessories outside India?", "label": {"intent": "general_query", "urgency": "low", "order_id": "ORD-2006", "requires_human": false}}
+{"ticket_text": "Do you ship accessories outside India?", "label": {"intent": "general_query", "urgency": "low", "order_id": "ORD-2007", "requires_human": false}}
+{"ticket_text": "Do you ship accessories outside India?", "label": {"intent": "general_query", "urgency": "low", "order_id": "ORD-2008", "requires_human": false}}
+{"ticket_text": "My account got locked after wrong OTP attempts.", "label": {"intent": "account_access", "urgency": "high", "order_id": "ORD-2009", "requires_human": true}}
+{"ticket_text": "My card was charged twice for order my recent order, please refund immediately.", "label": {"intent": "billing_issue", "urgency": "high", "order_id": null, "requires_human": true}}
+{"ticket_text": "Where is my package for order ORD-2011? Tracking hasn't moved.", "label": {"intent": "order_status", "urgency": "low", "order_id": "ORD-2011", "requires_human": false}}
+{"ticket_text": "Cancel order ORD-2012 and process full refund please.", "label": {"intent": "refund_request", "urgency": "medium", "order_id": "ORD-2012", "requires_human": false}}
+{"ticket_text": "Has order my recent order been dispatched yet?", "label": {"intent": "order_status", "urgency": "low", "order_id": null, "requires_human": false}}
+{"ticket_text": "Cancel order ORD-2014 and process full refund please.", "label": {"intent": "refund_request", "urgency": "medium", "order_id": "ORD-2014", "requires_human": false}}
+{"ticket_text": "I cannot log into my account, password reset email is not arriving.", "label": {"intent": "account_access", "urgency": "high", "order_id": "ORD-2015", "requires_human": true}}
+{"ticket_text": "Cancel order ORD-2016 and process full refund please.", "label": {"intent": "refund_request", "urgency": "medium", "order_id": "ORD-2016", "requires_human": false}}
+{"ticket_text": "My card was charged twice for order my recent order, please refund immediately.", "label": {"intent": "billing_issue", "urgency": "high", "order_id": null, "requires_human": true}}
+{"ticket_text": "Do you ship accessories outside India?", "label": {"intent": "general_query", "urgency": "low", "order_id": "ORD-2018", "requires_human": false}}
+{"ticket_text": "I cannot log into my account, password reset email is not arriving.", "label": {"intent": "account_access", "urgency": "high", "order_id": "ORD-2019", "requires_human": true}}
+{"ticket_text": "I want to return order my recent order and get a refund, item arrived damaged.", "label": {"intent": "refund_request", "urgency": "medium", "order_id": null, "requires_human": false}}
+{"ticket_text": "What are your customer support working hours?", "label": {"intent": "general_query", "urgency": "low", "order_id": null, "requires_human": false}}
+{"ticket_text": "Cancel order ORD-2022 and process full refund please.", "label": {"intent": "refund_request", "urgency": "medium", "order_id": "ORD-2022", "requires_human": false}}
+{"ticket_text": "Why is there an extra service fee on my invoice for ORD-2023?", "label": {"intent": "billing_issue", "urgency": "medium", "order_id": "ORD-2023", "requires_human": false}}
+{"ticket_text": "Has order my recent order been dispatched yet?", "label": {"intent": "order_status", "urgency": "low", "order_id": null, "requires_human": false}}
+{"ticket_text": "Why is there an extra service fee on my invoice for my recent order?", "label": {"intent": "billing_issue", "urgency": "medium", "order_id": null, "requires_human": false}}
+{"ticket_text": "Why is there an extra service fee on my invoice for ORD-2026?", "label": {"intent": "billing_issue", "urgency": "medium", "order_id": "ORD-2026", "requires_human": false}}
+{"ticket_text": "My account got locked after wrong OTP attempts.", "label": {"intent": "account_access", "urgency": "high", "order_id": "ORD-2027", "requires_human": true}}
+{"ticket_text": "Cancel order ORD-2028 and process full refund please.", "label": {"intent": "refund_request", "urgency": "medium", "order_id": "ORD-2028", "requires_human": false}}
+{"ticket_text": "Cancel order ORD-2029 and process full refund please.", "label": {"intent": "refund_request", "urgency": "medium", "order_id": "ORD-2029", "requires_human": false}}
+{"ticket_text": "I want to return order ORD-2030 and get a refund, item arrived damaged.", "label": {"intent": "refund_request", "urgency": "medium", "order_id": "ORD-2030", "requires_human": false}}
+{"ticket_text": "Why is there an extra service fee on my invoice for ORD-2031?", "label": {"intent": "billing_issue", "urgency": "medium", "order_id": "ORD-2031", "requires_human": false}}
+{"ticket_text": "Where is my package for order ORD-2032? Tracking hasn't moved.", "label": {"intent": "order_status", "urgency": "low", "order_id": "ORD-2032", "requires_human": false}}
+{"ticket_text": "Has order ORD-2033 been dispatched yet?", "label": {"intent": "order_status", "urgency": "low", "order_id": "ORD-2033", "requires_human": false}}
+{"ticket_text": "I cannot log into my account, password reset email is not arriving.", "label": {"intent": "account_access", "urgency": "high", "order_id": "ORD-2034", "requires_human": true}}
+{"ticket_text": "Do you ship accessories outside India?", "label": {"intent": "general_query", "urgency": "low", "order_id": "ORD-2035", "requires_human": false}}
+{"ticket_text": "Cancel order my recent order and process full refund please.", "label": {"intent": "refund_request", "urgency": "medium", "order_id": null, "requires_human": false}}
+{"ticket_text": "My card was charged twice for order ORD-2037, please refund immediately.", "label": {"intent": "billing_issue", "urgency": "high", "order_id": "ORD-2037", "requires_human": true}}
+{"ticket_text": "My card was charged twice for order my recent order, please refund immediately.", "label": {"intent": "billing_issue", "urgency": "high", "order_id": null, "requires_human": true}}
+{"ticket_text": "I cannot log into my account, password reset email is not arriving.", "label": {"intent": "account_access", "urgency": "high", "order_id": "ORD-2039", "requires_human": true}}
+{"ticket_text": "Has order my recent order been dispatched yet?", "label": {"intent": "order_status", "urgency": "low", "order_id": null, "requires_human": false}}
+{"ticket_text": "What are your customer support working hours?", "label": {"intent": "general_query", "urgency": "low", "order_id": null, "requires_human": false}}
+{"ticket_text": "Cancel order ORD-2042 and process full refund please.", "label": {"intent": "refund_request", "urgency": "medium", "order_id": "ORD-2042", "requires_human": false}}
+{"ticket_text": "My account got locked after wrong OTP attempts.", "label": {"intent": "account_access", "urgency": "high", "order_id": "ORD-2043", "requires_human": true}}
+{"ticket_text": "My account got locked after wrong OTP attempts.", "label": {"intent": "account_access", "urgency": "high", "order_id": "ORD-2044", "requires_human": true}}
+{"ticket_text": "Where is my package for order ORD-2045? Tracking hasn't moved.", "label": {"intent": "order_status", "urgency": "low", "order_id": "ORD-2045", "requires_human": false}}
+{"ticket_text": "Do you ship accessories outside India?", "label": {"intent": "general_query", "urgency": "low", "order_id": "ORD-2046", "requires_human": false}}
+{"ticket_text": "What are your customer support working hours?", "label": {"intent": "general_query", "urgency": "low", "order_id": "ORD-2047", "requires_human": false}}
+{"ticket_text": "What are your customer support working hours?", "label": {"intent": "general_query", "urgency": "low", "order_id": "ORD-2048", "requires_human": false}}
+{"ticket_text": "Has order my recent order been dispatched yet?", "label": {"intent": "order_status", "urgency": "low", "order_id": null, "requires_human": false}}
+{"ticket_text": "Where is my package for order ORD-2050? Tracking hasn't moved.", "label": {"intent": "order_status", "urgency": "low", "order_id": "ORD-2050", "requires_human": false}}
+{"ticket_text": "Why is there an extra service fee on my invoice for my recent order?", "label": {"intent": "billing_issue", "urgency": "medium", "order_id": null, "requires_human": false}}
+{"ticket_text": "Why is there an extra service fee on my invoice for ORD-2052?", "label": {"intent": "billing_issue", "urgency": "medium", "order_id": "ORD-2052", "requires_human": false}}
+{"ticket_text": "Where is my package for order my recent order? Tracking hasn't moved.", "label": {"intent": "order_status", "urgency": "low", "order_id": null, "requires_human": false}}
+{"ticket_text": "I cannot log into my account, password reset email is not arriving.", "label": {"intent": "account_access", "urgency": "high", "order_id": "ORD-2054", "requires_human": true}}
+{"ticket_text": "I cannot log into my account, password reset email is not arriving.", "label": {"intent": "account_access", "urgency": "high", "order_id": "ORD-2055", "requires_human": true}}
+{"ticket_text": "My account got locked after wrong OTP attempts.", "label": {"intent": "account_access", "urgency": "high", "order_id": "ORD-2056", "requires_human": true}}
+{"ticket_text": "Do you ship accessories outside India?", "label": {"intent": "general_query", "urgency": "low", "order_id": null, "requires_human": false}}
+{"ticket_text": "My card was charged twice for order ORD-2058, please refund immediately.", "label": {"intent": "billing_issue", "urgency": "high", "order_id": "ORD-2058", "requires_human": true}}
+{"ticket_text": "Why is there an extra service fee on my invoice for ORD-2059?", "label": {"intent": "billing_issue", "urgency": "medium", "order_id": "ORD-2059", "requires_human": false}}
+{"ticket_text": "Do you ship accessories outside India?", "label": {"intent": "general_query", "urgency": "low", "order_id": null, "requires_human": false}}
+{"ticket_text": "Cancel order ORD-2061 and process full refund please.", "label": {"intent": "refund_request", "urgency": "medium", "order_id": "ORD-2061", "requires_human": false}}
+{"ticket_text": "I cannot log into my account, password reset email is not arriving.", "label": {"intent": "account_access", "urgency": "high", "order_id": "ORD-2062", "requires_human": true}}
+{"ticket_text": "My card was charged twice for order my recent order, please refund immediately.", "label": {"intent": "billing_issue", "urgency": "high", "order_id": null, "requires_human": true}}
+{"ticket_text": "I want to return order my recent order and get a refund, item arrived damaged.", "label": {"intent": "refund_request", "urgency": "medium", "order_id": null, "requires_human": false}}
+{"ticket_text": "Where is my package for order ORD-2065? Tracking hasn't moved.", "label": {"intent": "order_status", "urgency": "low", "order_id": "ORD-2065", "requires_human": false}}
+{"ticket_text": "Why is there an extra service fee on my invoice for my recent order?", "label": {"intent": "billing_issue", "urgency": "medium", "order_id": null, "requires_human": false}}
+{"ticket_text": "I want to return order my recent order and get a refund, item arrived damaged.", "label": {"intent": "refund_request", "urgency": "medium", "order_id": null, "requires_human": false}}
+{"ticket_text": "Do you ship accessories outside India?", "label": {"intent": "general_query", "urgency": "low", "order_id": "ORD-2068", "requires_human": false}}
+{"ticket_text": "Where is my package for order ORD-2069? Tracking hasn't moved.", "label": {"intent": "order_status", "urgency": "low", "order_id": "ORD-2069", "requires_human": false}}
+{"ticket_text": "Where is my package for order ORD-2070? Tracking hasn't moved.", "label": {"intent": "order_status", "urgency": "low", "order_id": "ORD-2070", "requires_human": false}}
+{"ticket_text": "Do you ship accessories outside India?", "label": {"intent": "general_query", "urgency": "low", "order_id": null, "requires_human": false}}
+{"ticket_text": "What are your customer support working hours?", "label": {"intent": "general_query", "urgency": "low", "order_id": "ORD-2072", "requires_human": false}}
+{"ticket_text": "My card was charged twice for order ORD-2073, please refund immediately.", "label": {"intent": "billing_issue", "urgency": "high", "order_id": "ORD-2073", "requires_human": true}}
+{"ticket_text": "Cancel order my recent order and process full refund please.", "label": {"intent": "refund_request", "urgency": "medium", "order_id": null, "requires_human": false}}
+{"ticket_text": "I want to return order ORD-2075 and get a refund, item arrived damaged.", "label": {"intent": "refund_request", "urgency": "medium", "order_id": "ORD-2075", "requires_human": false}}
+{"ticket_text": "Has order my recent order been dispatched yet?", "label": {"intent": "order_status", "urgency": "low", "order_id": null, "requires_human": false}}
+{"ticket_text": "Why is there an extra service fee on my invoice for ORD-2077?", "label": {"intent": "billing_issue", "urgency": "medium", "order_id": "ORD-2077", "requires_human": false}}
+{"ticket_text": "My account got locked after wrong OTP attempts.", "label": {"intent": "account_access", "urgency": "high", "order_id": null, "requires_human": true}}
+{"ticket_text": "Do you ship accessories outside India?", "label": {"intent": "general_query", "urgency": "low", "order_id": null, "requires_human": false}}
+{"ticket_text": "Where is my package for order ORD-2080? Tracking hasn't moved.", "label": {"intent": "order_status", "urgency": "low", "order_id": "ORD-2080", "requires_human": false}}
+{"ticket_text": "Do you ship accessories outside India?", "label": {"intent": "general_query", "urgency": "low", "order_id": "ORD-2081", "requires_human": false}}
+{"ticket_text": "Do you ship accessories outside India?", "label": {"intent": "general_query", "urgency": "low", "order_id": null, "requires_human": false}}
+{"ticket_text": "I cannot log into my account, password reset email is not arriving.", "label": {"intent": "account_access", "urgency": "high", "order_id": null, "requires_human": true}}
+{"ticket_text": "Do you ship accessories outside India?", "label": {"intent": "general_query", "urgency": "low", "order_id": null, "requires_human": false}}
+{"ticket_text": "Has order ORD-2085 been dispatched yet?", "label": {"intent": "order_status", "urgency": "low", "order_id": "ORD-2085", "requires_human": false}}
+{"ticket_text": "I cannot log into my account, password reset email is not arriving.", "label": {"intent": "account_access", "urgency": "high", "order_id": null, "requires_human": true}}
+{"ticket_text": "Cancel order ORD-2087 and process full refund please.", "label": {"intent": "refund_request", "urgency": "medium", "order_id": "ORD-2087", "requires_human": false}}
+{"ticket_text": "Do you ship accessories outside India?", "label": {"intent": "general_query", "urgency": "low", "order_id": "ORD-2088", "requires_human": false}}
+{"ticket_text": "Has order ORD-2089 been dispatched yet?", "label": {"intent": "order_status", "urgency": "low", "order_id": "ORD-2089", "requires_human": false}}
+{"ticket_text": "Cancel order ORD-2090 and process full refund please.", "label": {"intent": "refund_request", "urgency": "medium", "order_id": "ORD-2090", "requires_human": false}}
+{"ticket_text": "Do you ship accessories outside India?", "label": {"intent": "general_query", "urgency": "low", "order_id": "ORD-2091", "requires_human": false}}
+{"ticket_text": "Has order ORD-2092 been dispatched yet?", "label": {"intent": "order_status", "urgency": "low", "order_id": "ORD-2092", "requires_human": false}}
+{"ticket_text": "My card was charged twice for order ORD-2093, please refund immediately.", "label": {"intent": "billing_issue", "urgency": "high", "order_id": "ORD-2093", "requires_human": true}}
+{"ticket_text": "My card was charged twice for order my recent order, please refund immediately.", "label": {"intent": "billing_issue", "urgency": "high", "order_id": null, "requires_human": true}}
+{"ticket_text": "Why is there an extra service fee on my invoice for ORD-2095?", "label": {"intent": "billing_issue", "urgency": "medium", "order_id": "ORD-2095", "requires_human": false}}
+{"ticket_text": "I want to return order ORD-2096 and get a refund, item arrived damaged.", "label": {"intent": "refund_request", "urgency": "medium", "order_id": "ORD-2096", "requires_human": false}}
+{"ticket_text": "Has order ORD-2097 been dispatched yet?", "label": {"intent": "order_status", "urgency": "low", "order_id": "ORD-2097", "requires_human": false}}
+{"ticket_text": "What are your customer support working hours?", "label": {"intent": "general_query", "urgency": "low", "order_id": "ORD-2098", "requires_human": false}}
+{"ticket_text": "Has order my recent order been dispatched yet?", "label": {"intent": "order_status", "urgency": "low", "order_id": null, "requires_human": false}}
+{"ticket_text": "I cannot log into my account, password reset email is not arriving.", "label": {"intent": "account_access", "urgency": "high", "order_id": "ORD-2100", "requires_human": true}}
+{"ticket_text": "Why is there an extra service fee on my invoice for ORD-2101?", "label": {"intent": "billing_issue", "urgency": "medium", "order_id": "ORD-2101", "requires_human": false}}
+{"ticket_text": "Cancel order ORD-2102 and process full refund please.", "label": {"intent": "refund_request", "urgency": "medium", "order_id": "ORD-2102", "requires_human": false}}
+{"ticket_text": "My account got locked after wrong OTP attempts.", "label": {"intent": "account_access", "urgency": "high", "order_id": null, "requires_human": true}}
+{"ticket_text": "My card was charged twice for order ORD-2104, please refund immediately.", "label": {"intent": "billing_issue", "urgency": "high", "order_id": "ORD-2104", "requires_human": true}}
+{"ticket_text": "Why is there an extra service fee on my invoice for ORD-2105?", "label": {"intent": "billing_issue", "urgency": "medium", "order_id": "ORD-2105", "requires_human": false}}
+{"ticket_text": "Cancel order my recent order and process full refund please.", "label": {"intent": "refund_request", "urgency": "medium", "order_id": null, "requires_human": false}}
+{"ticket_text": "Why is there an extra service fee on my invoice for ORD-2107?", "label": {"intent": "billing_issue", "urgency": "medium", "order_id": "ORD-2107", "requires_human": false}}
+{"ticket_text": "Has order ORD-2108 been dispatched yet?", "label": {"intent": "order_status", "urgency": "low", "order_id": "ORD-2108", "requires_human": false}}
+{"ticket_text": "Where is my package for order ORD-2109? Tracking hasn't moved.", "label": {"intent": "order_status", "urgency": "low", "order_id": "ORD-2109", "requires_human": false}}
+{"ticket_text": "I want to return order ORD-2110 and get a refund, item arrived damaged.", "label": {"intent": "refund_request", "urgency": "medium", "order_id": "ORD-2110", "requires_human": false}}
+{"ticket_text": "Why is there an extra service fee on my invoice for ORD-2111?", "label": {"intent": "billing_issue", "urgency": "medium", "order_id": "ORD-2111", "requires_human": false}}
+{"ticket_text": "Do you ship accessories outside India?", "label": {"intent": "general_query", "urgency": "low", "order_id": "ORD-2112", "requires_human": false}}
+{"ticket_text": "Do you ship accessories outside India?", "label": {"intent": "general_query", "urgency": "low", "order_id": null, "requires_human": false}}
+{"ticket_text": "Why is there an extra service fee on my invoice for my recent order?", "label": {"intent": "billing_issue", "urgency": "medium", "order_id": null, "requires_human": false}}
+{"ticket_text": "Has order ORD-2115 been dispatched yet?", "label": {"intent": "order_status", "urgency": "low", "order_id": "ORD-2115", "requires_human": false}}
+{"ticket_text": "My account got locked after wrong OTP attempts.", "label": {"intent": "account_access", "urgency": "high", "order_id": "ORD-2116", "requires_human": true}}
+{"ticket_text": "I cannot log into my account, password reset email is not arriving.", "label": {"intent": "account_access", "urgency": "high", "order_id": null, "requires_human": true}}
+{"ticket_text": "Where is my package for order ORD-2118? Tracking hasn't moved.", "label": {"intent": "order_status", "urgency": "low", "order_id": "ORD-2118", "requires_human": false}}
+{"ticket_text": "I cannot log into my account, password reset email is not arriving.", "label": {"intent": "account_access", "urgency": "high", "order_id": "ORD-2119", "requires_human": true}}
+{"ticket_text": "My account got locked after wrong OTP attempts.", "label": {"intent": "account_access", "urgency": "high", "order_id": "ORD-2120", "requires_human": true}}
+{"ticket_text": "Do you ship accessories outside India?", "label": {"intent": "general_query", "urgency": "low", "order_id": "ORD-2121", "requires_human": false}}
+{"ticket_text": "My account got locked after wrong OTP attempts.", "label": {"intent": "account_access", "urgency": "high", "order_id": "ORD-2122", "requires_human": true}}
+{"ticket_text": "I want to return order ORD-2123 and get a refund, item arrived damaged.", "label": {"intent": "refund_request", "urgency": "medium", "order_id": "ORD-2123", "requires_human": false}}
+{"ticket_text": "My card was charged twice for order ORD-2124, please refund immediately.", "label": {"intent": "billing_issue", "urgency": "high", "order_id": "ORD-2124", "requires_human": true}}
+{"ticket_text": "Do you ship accessories outside India?", "label": {"intent": "general_query", "urgency": "low", "order_id": "ORD-2125", "requires_human": false}}
+{"ticket_text": "Cancel order ORD-2126 and process full refund please.", "label": {"intent": "refund_request", "urgency": "medium", "order_id": "ORD-2126", "requires_human": false}}
+{"ticket_text": "What are your customer support working hours?", "label": {"intent": "general_query", "urgency": "low", "order_id": "ORD-2127", "requires_human": false}}
+{"ticket_text": "Do you ship accessories outside India?", "label": {"intent": "general_query", "urgency": "low", "order_id": "ORD-2128", "requires_human": false}}
+{"ticket_text": "Do you ship accessories outside India?", "label": {"intent": "general_query", "urgency": "low", "order_id": "ORD-2129", "requires_human": false}}
+{"ticket_text": "Where is my package for order ORD-2130? Tracking hasn't moved.", "label": {"intent": "order_status", "urgency": "low", "order_id": "ORD-2130", "requires_human": false}}
+{"ticket_text": "Why is there an extra service fee on my invoice for ORD-2131?", "label": {"intent": "billing_issue", "urgency": "medium", "order_id": "ORD-2131", "requires_human": false}}
+{"ticket_text": "Has order ORD-2132 been dispatched yet?", "label": {"intent": "order_status", "urgency": "low", "order_id": "ORD-2132", "requires_human": false}}
+{"ticket_text": "What are your customer support working hours?", "label": {"intent": "general_query", "urgency": "low", "order_id": "ORD-2133", "requires_human": false}}
+{"ticket_text": "What are your customer support working hours?", "label": {"intent": "general_query", "urgency": "low", "order_id": "ORD-2134", "requires_human": false}}
+{"ticket_text": "Why is there an extra service fee on my invoice for ORD-2135?", "label": {"intent": "billing_issue", "urgency": "medium", "order_id": "ORD-2135", "requires_human": false}}
+{"ticket_text": "What are your customer support working hours?", "label": {"intent": "general_query", "urgency": "low", "order_id": "ORD-2136", "requires_human": false}}
+{"ticket_text": "Cancel order my recent order and process full refund please.", "label": {"intent": "refund_request", "urgency": "medium", "order_id": null, "requires_human": false}}
+{"ticket_text": "Has order ORD-2138 been dispatched yet?", "label": {"intent": "order_status", "urgency": "low", "order_id": "ORD-2138", "requires_human": false}}
+{"ticket_text": "Cancel order ORD-2139 and process full refund please.", "label": {"intent": "refund_request", "urgency": "medium", "order_id": "ORD-2139", "requires_human": false}}
+{"ticket_text": "I cannot log into my account, password reset email is not arriving.", "label": {"intent": "account_access", "urgency": "high", "order_id": "ORD-2140", "requires_human": true}}
+{"ticket_text": "I want to return order ORD-2141 and get a refund, item arrived damaged.", "label": {"intent": "refund_request", "urgency": "medium", "order_id": "ORD-2141", "requires_human": false}}
+{"ticket_text": "Why is there an extra service fee on my invoice for ORD-2142?", "label": {"intent": "billing_issue", "urgency": "medium", "order_id": "ORD-2142", "requires_human": false}}
+{"ticket_text": "What are your customer support working hours?", "label": {"intent": "general_query", "urgency": "low", "order_id": null, "requires_human": false}}
+{"ticket_text": "Why is there an extra service fee on my invoice for ORD-2144?", "label": {"intent": "billing_issue", "urgency": "medium", "order_id": "ORD-2144", "requires_human": false}}
+{"ticket_text": "Has order ORD-2145 been dispatched yet?", "label": {"intent": "order_status", "urgency": "low", "order_id": "ORD-2145", "requires_human": false}}
+{"ticket_text": "Where is my package for order my recent order? Tracking hasn't moved.", "label": {"intent": "order_status", "urgency": "low", "order_id": null, "requires_human": false}}
+{"ticket_text": "Why is there an extra service fee on my invoice for my recent order?", "label": {"intent": "billing_issue", "urgency": "medium", "order_id": null, "requires_human": false}}
+{"ticket_text": "Cancel order ORD-2148 and process full refund please.", "label": {"intent": "refund_request", "urgency": "medium", "order_id": "ORD-2148", "requires_human": false}}
+{"ticket_text": "My account got locked after wrong OTP attempts.", "label": {"intent": "account_access", "urgency": "high", "order_id": null, "requires_human": true}}
+{"ticket_text": "I want to return order ORD-2150 and get a refund, item arrived damaged.", "label": {"intent": "refund_request", "urgency": "medium", "order_id": "ORD-2150", "requires_human": false}}
+{"ticket_text": "Do you ship accessories outside India?", "label": {"intent": "general_query", "urgency": "low", "order_id": "ORD-2151", "requires_human": false}}
+{"ticket_text": "Do you ship accessories outside India?", "label": {"intent": "general_query", "urgency": "low", "order_id": "ORD-2152", "requires_human": false}}
+{"ticket_text": "Why is there an extra service fee on my invoice for my recent order?", "label": {"intent": "billing_issue", "urgency": "medium", "order_id": null, "requires_human": false}}
+{"ticket_text": "Where is my package for order ORD-2154? Tracking hasn't moved.", "label": {"intent": "order_status", "urgency": "low", "order_id": "ORD-2154", "requires_human": false}}
+{"ticket_text": "Why is there an extra service fee on my invoice for my recent order?", "label": {"intent": "billing_issue", "urgency": "medium", "order_id": null, "requires_human": false}}
+{"ticket_text": "Where is my package for order ORD-2156? Tracking hasn't moved.", "label": {"intent": "order_status", "urgency": "low", "order_id": "ORD-2156", "requires_human": false}}
+{"ticket_text": "What are your customer support working hours?", "label": {"intent": "general_query", "urgency": "low", "order_id": "ORD-2157", "requires_human": false}}
+{"ticket_text": "Cancel order ORD-2158 and process full refund please.", "label": {"intent": "refund_request", "urgency": "medium", "order_id": "ORD-2158", "requires_human": false}}
+{"ticket_text": "I want to return order ORD-2159 and get a refund, item arrived damaged.", "label": {"intent": "refund_request", "urgency": "medium", "order_id": "ORD-2159", "requires_human": false}}
+{"ticket_text": "I want to return order my recent order and get a refund, item arrived damaged.", "label": {"intent": "refund_request", "urgency": "medium", "order_id": null, "requires_human": false}}
+{"ticket_text": "My card was charged twice for order ORD-2161, please refund immediately.", "label": {"intent": "billing_issue", "urgency": "high", "order_id": "ORD-2161", "requires_human": true}}
+{"ticket_text": "I cannot log into my account, password reset email is not arriving.", "label": {"intent": "account_access", "urgency": "high", "order_id": null, "requires_human": true}}
+{"ticket_text": "My card was charged twice for order ORD-2163, please refund immediately.", "label": {"intent": "billing_issue", "urgency": "high", "order_id": "ORD-2163", "requires_human": true}}
+{"ticket_text": "Where is my package for order ORD-2164? Tracking hasn't moved.", "label": {"intent": "order_status", "urgency": "low", "order_id": "ORD-2164", "requires_human": false}}
+{"ticket_text": "I want to return order ORD-2165 and get a refund, item arrived damaged.", "label": {"intent": "refund_request", "urgency": "medium", "order_id": "ORD-2165", "requires_human": false}}
+{"ticket_text": "My account got locked after wrong OTP attempts.", "label": {"intent": "account_access", "urgency": "high", "order_id": "ORD-2166", "requires_human": true}}
+{"ticket_text": "I cannot log into my account, password reset email is not arriving.", "label": {"intent": "account_access", "urgency": "high", "order_id": "ORD-2167", "requires_human": true}}
+{"ticket_text": "Why is there an extra service fee on my invoice for ORD-2168?", "label": {"intent": "billing_issue", "urgency": "medium", "order_id": "ORD-2168", "requires_human": false}}
+{"ticket_text": "Where is my package for order ORD-2169? Tracking hasn't moved.", "label": {"intent": "order_status", "urgency": "low", "order_id": "ORD-2169", "requires_human": false}}
+{"ticket_text": "Cancel order ORD-2170 and process full refund please.", "label": {"intent": "refund_request", "urgency": "medium", "order_id": "ORD-2170", "requires_human": false}}
+{"ticket_text": "Where is my package for order ORD-2171? Tracking hasn't moved.", "label": {"intent": "order_status", "urgency": "low", "order_id": "ORD-2171", "requires_human": false}}
+{"ticket_text": "My card was charged twice for order ORD-2172, please refund immediately.", "label": {"intent": "billing_issue", "urgency": "high", "order_id": "ORD-2172", "requires_human": true}}
+{"ticket_text": "My card was charged twice for order my recent order, please refund immediately.", "label": {"intent": "billing_issue", "urgency": "high", "order_id": null, "requires_human": true}}
+{"ticket_text": "Has order ORD-2174 been dispatched yet?", "label": {"intent": "order_status", "urgency": "low", "order_id": "ORD-2174", "requires_human": false}}
+{"ticket_text": "Why is there an extra service fee on my invoice for ORD-2175?", "label": {"intent": "billing_issue", "urgency": "medium", "order_id": "ORD-2175", "requires_human": false}}
+{"ticket_text": "Do you ship accessories outside India?", "label": {"intent": "general_query", "urgency": "low", "order_id": null, "requires_human": false}}
+{"ticket_text": "I cannot log into my account, password reset email is not arriving.", "label": {"intent": "account_access", "urgency": "high", "order_id": null, "requires_human": true}}
+{"ticket_text": "Where is my package for order my recent order? Tracking hasn't moved.", "label": {"intent": "order_status", "urgency": "low", "order_id": null, "requires_human": false}}
+{"ticket_text": "Has order my recent order been dispatched yet?", "label": {"intent": "order_status", "urgency": "low", "order_id": null, "requires_human": false}}
+{"ticket_text": "Where is my package for order my recent order? Tracking hasn't moved.", "label": {"intent": "order_status", "urgency": "low", "order_id": null, "requires_human": false}}
+{"ticket_text": "My card was charged twice for order ORD-2181, please refund immediately.", "label": {"intent": "billing_issue", "urgency": "high", "order_id": "ORD-2181", "requires_human": true}}
+{"ticket_text": "Cancel order my recent order and process full refund please.", "label": {"intent": "refund_request", "urgency": "medium", "order_id": null, "requires_human": false}}
+{"ticket_text": "I cannot log into my account, password reset email is not arriving.", "label": {"intent": "account_access", "urgency": "high", "order_id": null, "requires_human": true}}
+{"ticket_text": "Has order ORD-2184 been dispatched yet?", "label": {"intent": "order_status", "urgency": "low", "order_id": "ORD-2184", "requires_human": false}}
+{"ticket_text": "Why is there an extra service fee on my invoice for ORD-2185?", "label": {"intent": "billing_issue", "urgency": "medium", "order_id": "ORD-2185", "requires_human": false}}
+{"ticket_text": "My card was charged twice for order my recent order, please refund immediately.", "label": {"intent": "billing_issue", "urgency": "high", "order_id": null, "requires_human": true}}
+{"ticket_text": "Has order ORD-2187 been dispatched yet?", "label": {"intent": "order_status", "urgency": "low", "order_id": "ORD-2187", "requires_human": false}}
+{"ticket_text": "My account got locked after wrong OTP attempts.", "label": {"intent": "account_access", "urgency": "high", "order_id": "ORD-2188", "requires_human": true}}
+{"ticket_text": "Has order ORD-2189 been dispatched yet?", "label": {"intent": "order_status", "urgency": "low", "order_id": "ORD-2189", "requires_human": false}}
+{"ticket_text": "Has order ORD-2190 been dispatched yet?", "label": {"intent": "order_status", "urgency": "low", "order_id": "ORD-2190", "requires_human": false}}
+{"ticket_text": "I want to return order my recent order and get a refund, item arrived damaged.", "label": {"intent": "refund_request", "urgency": "medium", "order_id": null, "requires_human": false}}
+{"ticket_text": "I want to return order ORD-2192 and get a refund, item arrived damaged.", "label": {"intent": "refund_request", "urgency": "medium", "order_id": "ORD-2192", "requires_human": false}}
+{"ticket_text": "Do you ship accessories outside India?", "label": {"intent": "general_query", "urgency": "low", "order_id": "ORD-2193", "requires_human": false}}
+{"ticket_text": "Do you ship accessories outside India?", "label": {"intent": "general_query", "urgency": "low", "order_id": "ORD-2194", "requires_human": false}}
+{"ticket_text": "My card was charged twice for order ORD-2195, please refund immediately.", "label": {"intent": "billing_issue", "urgency": "high", "order_id": "ORD-2195", "requires_human": true}}
+{"ticket_text": "I want to return order ORD-2196 and get a refund, item arrived damaged.", "label": {"intent": "refund_request", "urgency": "medium", "order_id": "ORD-2196", "requires_human": false}}
+{"ticket_text": "I want to return order ORD-2197 and get a refund, item arrived damaged.", "label": {"intent": "refund_request", "urgency": "medium", "order_id": "ORD-2197", "requires_human": false}}
+{"ticket_text": "What are your customer support working hours?", "label": {"intent": "general_query", "urgency": "low", "order_id": "ORD-2198", "requires_human": false}}
+{"ticket_text": "Cancel order ORD-2199 and process full refund please.", "label": {"intent": "refund_request", "urgency": "medium", "order_id": "ORD-2199", "requires_human": false}}
+{"ticket_text": "Do you ship accessories outside India?", "label": {"intent": "general_query", "urgency": "low", "order_id": "ORD-2200", "requires_human": false}}
+{"ticket_text": "What are your customer support working hours?", "label": {"intent": "general_query", "urgency": "low", "order_id": "ORD-2201", "requires_human": false}}
+{"ticket_text": "My card was charged twice for order ORD-2202, please refund immediately.", "label": {"intent": "billing_issue", "urgency": "high", "order_id": "ORD-2202", "requires_human": true}}
+{"ticket_text": "My card was charged twice for order ORD-2203, please refund immediately.", "label": {"intent": "billing_issue", "urgency": "high", "order_id": "ORD-2203", "requires_human": true}}
+{"ticket_text": "Do you ship accessories outside India?", "label": {"intent": "general_query", "urgency": "low", "order_id": "ORD-2204", "requires_human": false}}
+{"ticket_text": "Has order ORD-2205 been dispatched yet?", "label": {"intent": "order_status", "urgency": "low", "order_id": "ORD-2205", "requires_human": false}}
+{"ticket_text": "Why is there an extra service fee on my invoice for my recent order?", "label": {"intent": "billing_issue", "urgency": "medium", "order_id": null, "requires_human": false}}
+{"ticket_text": "Cancel order ORD-2207 and process full refund please.", "label": {"intent": "refund_request", "urgency": "medium", "order_id": "ORD-2207", "requires_human": false}}
+{"ticket_text": "Why is there an extra service fee on my invoice for ORD-2208?", "label": {"intent": "billing_issue", "urgency": "medium", "order_id": "ORD-2208", "requires_human": false}}
+{"ticket_text": "I want to return order ORD-2209 and get a refund, item arrived damaged.", "label": {"intent": "refund_request", "urgency": "medium", "order_id": "ORD-2209", "requires_human": false}}
+{"ticket_text": "I cannot log into my account, password reset email is not arriving.", "label": {"intent": "account_access", "urgency": "high", "order_id": "ORD-2210", "requires_human": true}}
+{"ticket_text": "I want to return order ORD-2211 and get a refund, item arrived damaged.", "label": {"intent": "refund_request", "urgency": "medium", "order_id": "ORD-2211", "requires_human": false}}
+{"ticket_text": "Has order ORD-2212 been dispatched yet?", "label": {"intent": "order_status", "urgency": "low", "order_id": "ORD-2212", "requires_human": false}}
+{"ticket_text": "I cannot log into my account, password reset email is not arriving.", "label": {"intent": "account_access", "urgency": "high", "order_id": "ORD-2213", "requires_human": true}}
+{"ticket_text": "Where is my package for order ORD-2214? Tracking hasn't moved.", "label": {"intent": "order_status", "urgency": "low", "order_id": "ORD-2214", "requires_human": false}}
+{"ticket_text": "I want to return order ORD-2215 and get a refund, item arrived damaged.", "label": {"intent": "refund_request", "urgency": "medium", "order_id": "ORD-2215", "requires_human": false}}
+{"ticket_text": "My card was charged twice for order ORD-2216, please refund immediately.", "label": {"intent": "billing_issue", "urgency": "high", "order_id": "ORD-2216", "requires_human": true}}
+{"ticket_text": "Has order ORD-2217 been dispatched yet?", "label": {"intent": "order_status", "urgency": "low", "order_id": "ORD-2217", "requires_human": false}}
+{"ticket_text": "What are your customer support working hours?", "label": {"intent": "general_query", "urgency": "low", "order_id": "ORD-2218", "requires_human": false}}
+{"ticket_text": "Cancel order ORD-2219 and process full refund please.", "label": {"intent": "refund_request", "urgency": "medium", "order_id": "ORD-2219", "requires_human": false}}
+{"ticket_text": "My account got locked after wrong OTP attempts.", "label": {"intent": "account_access", "urgency": "high", "order_id": "ORD-2220", "requires_human": true}}
+{"ticket_text": "Do you ship accessories outside India?", "label": {"intent": "general_query", "urgency": "low", "order_id": "ORD-2221", "requires_human": false}}
+{"ticket_text": "Where is my package for order ORD-2222? Tracking hasn't moved.", "label": {"intent": "order_status", "urgency": "low", "order_id": "ORD-2222", "requires_human": false}}
+{"ticket_text": "I want to return order ORD-2223 and get a refund, item arrived damaged.", "label": {"intent": "refund_request", "urgency": "medium", "order_id": "ORD-2223", "requires_human": false}}
+{"ticket_text": "What are your customer support working hours?", "label": {"intent": "general_query", "urgency": "low", "order_id": "ORD-2224", "requires_human": false}}
+{"ticket_text": "Has order ORD-2225 been dispatched yet?", "label": {"intent": "order_status", "urgency": "low", "order_id": "ORD-2225", "requires_human": false}}
+{"ticket_text": "Has order my recent order been dispatched yet?", "label": {"intent": "order_status", "urgency": "low", "order_id": null, "requires_human": false}}
+{"ticket_text": "Where is my package for order ORD-2227? Tracking hasn't moved.", "label": {"intent": "order_status", "urgency": "low", "order_id": "ORD-2227", "requires_human": false}}
+{"ticket_text": "Has order my recent order been dispatched yet?", "label": {"intent": "order_status", "urgency": "low", "order_id": null, "requires_human": false}}
+{"ticket_text": "What are your customer support working hours?", "label": {"intent": "general_query", "urgency": "low", "order_id": null, "requires_human": false}}
+{"ticket_text": "Why is there an extra service fee on my invoice for ORD-2230?", "label": {"intent": "billing_issue", "urgency": "medium", "order_id": "ORD-2230", "requires_human": false}}
+{"ticket_text": "What are your customer support working hours?", "label": {"intent": "general_query", "urgency": "low", "order_id": "ORD-2231", "requires_human": false}}
+{"ticket_text": "I cannot log into my account, password reset email is not arriving.", "label": {"intent": "account_access", "urgency": "high", "order_id": "ORD-2232", "requires_human": true}}
+{"ticket_text": "Has order ORD-2233 been dispatched yet?", "label": {"intent": "order_status", "urgency": "low", "order_id": "ORD-2233", "requires_human": false}}
+{"ticket_text": "My card was charged twice for order my recent order, please refund immediately.", "label": {"intent": "billing_issue", "urgency": "high", "order_id": null, "requires_human": true}}
+{"ticket_text": "Why is there an extra service fee on my invoice for my recent order?", "label": {"intent": "billing_issue", "urgency": "medium", "order_id": null, "requires_human": false}}
+{"ticket_text": "Has order ORD-2236 been dispatched yet?", "label": {"intent": "order_status", "urgency": "low", "order_id": "ORD-2236", "requires_human": false}}
+{"ticket_text": "Do you ship accessories outside India?", "label": {"intent": "general_query", "urgency": "low", "order_id": "ORD-2237", "requires_human": false}}
+{"ticket_text": "Do you ship accessories outside India?", "label": {"intent": "general_query", "urgency": "low", "order_id": "ORD-2238", "requires_human": false}}
+{"ticket_text": "Why is there an extra service fee on my invoice for ORD-2239?", "label": {"intent": "billing_issue", "urgency": "medium", "order_id": "ORD-2239", "requires_human": false}}
+{"ticket_text": "My account got locked after wrong OTP attempts.", "label": {"intent": "account_access", "urgency": "high", "order_id": "ORD-2240", "requires_human": true}}
+{"ticket_text": "Do you ship accessories outside India?", "label": {"intent": "general_query", "urgency": "low", "order_id": "ORD-2241", "requires_human": false}}
+{"ticket_text": "My account got locked after wrong OTP attempts.", "label": {"intent": "account_access", "urgency": "high", "order_id": "ORD-2242", "requires_human": true}}
+{"ticket_text": "Do you ship accessories outside India?", "label": {"intent": "general_query", "urgency": "low", "order_id": "ORD-2243", "requires_human": false}}
+{"ticket_text": "Do you ship accessories outside India?", "label": {"intent": "general_query", "urgency": "low", "order_id": "ORD-2244", "requires_human": false}}
+{"ticket_text": "Where is my package for order my recent order? Tracking hasn't moved.", "label": {"intent": "order_status", "urgency": "low", "order_id": null, "requires_human": false}}
+{"ticket_text": "My account got locked after wrong OTP attempts.", "label": {"intent": "account_access", "urgency": "high", "order_id": "ORD-2246", "requires_human": true}}
+{"ticket_text": "Has order my recent order been dispatched yet?", "label": {"intent": "order_status", "urgency": "low", "order_id": null, "requires_human": false}}
+{"ticket_text": "I want to return order my recent order and get a refund, item arrived damaged.", "label": {"intent": "refund_request", "urgency": "medium", "order_id": null, "requires_human": false}}
+{"ticket_text": "Do you ship accessories outside India?", "label": {"intent": "general_query", "urgency": "low", "order_id": "ORD-2249", "requires_human": false}}

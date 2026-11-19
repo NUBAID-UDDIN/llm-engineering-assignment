@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "doc": "2005.11401v4.pdf",
+    "question": "Which generator model is used as the parametric memory in RAG and how many parameters does it have?",
+    "gold_passage_substring": "we use bart-large [32], a pre-trained seq2seq transformer [58] with 400m parameters"
+  },
+  {
+    "id": 2,
+    "doc": "2005.11401v4.pdf",
+    "question": "How is each Wikipedia article split when building the non-parametric document index in RAG?",
+    "gold_passage_substring": "each wikipedia article is split into disjoint 100-word chunks, to make a total of 21m documents"
+  },
+  {
+    "id": 3,
+    "doc": "2005.11401v4.pdf",
+    "question": "What is the difference between RAG-Sequence and RAG-Token regarding retrieved documents?",
+    "gold_passage_substring": "in one approach, rag-sequence, the model uses the same document to predict each target token"
+  },
+  {
+    "id": 4,
+    "doc": "2005.11401v4.pdf",
+    "question": "During RAG training, which components are fine-tuned and which is kept fixed?",
+    "gold_passage_substring": "keep the document encoder (and index) fixed, only fine-tuning the query encoder"
+  },
+  {
+    "id": 5,
+    "doc": "2005.11401v4.pdf",
+    "question": "What are the two decoding procedures introduced for RAG-Sequence at test time?",
+    "gold_passage_substring": "we refer to this decoding procedure as \"thorough decoding.\""
+  },
+  {
+    "id": 6,
+    "doc": "2005.11401v4.pdf",
+    "question": "What happens during retrieval collapse in preliminary RAG experiments?",
+    "gold_passage_substring": "the retrieval component would \"collapse\" and learn to retrieve the same documents regardless of the input"
+  },
+  {
+    "id": 7,
+    "doc": "2005.11401v4.pdf",
+    "question": "How does RAG update its world knowledge without retraining parametric weights?",
+    "gold_passage_substring": "we can update rag's world knowledge by simply replacing its non-parametric memory"
+  },
+  {
+    "id": 8,
+    "doc": "2005.11401v4.pdf",
+    "question": "How many trainable parameters do the DPR BERT-base query and document encoders have each?",
+    "gold_passage_substring": "bert-base query and document encoder of dpr, with 110m parameters each"
+  },
+  {
+    "id": 9,
+    "doc": "1706.03762v7.pdf",
+    "question": "How many identical layers are in the Transformer encoder and decoder stacks?",
+    "gold_passage_substring": "the encoder is composed of a stack of n=6 identical layers"
+  },
+  {
+    "id": 10,
+    "doc": "1706.03762v7.pdf",
+    "question": "Why are dot products scaled by 1/sqrt(d_k) in Scaled Dot-Product Attention?",
+    "gold_passage_substring": "to counteract this effect, we scale the dot products by"
+  },
+  {
+    "id": 11,
+    "doc": "1706.03762v7.pdf",
+    "question": "What are d_model, h, d_k, and d_v in the base Transformer multi-head attention setup?",
+    "gold_passage_substring": "employ h=8 parallel attention layers, or heads. for each of these we use d_k=d_v=d_model/h=64"
+  },
+  {
+    "id": 12,
+    "doc": "1706.03762v7.pdf",
+    "question": "What are the input/output dimension and inner feed-forward layer dimension in the Transformer FFN?",
+    "gold_passage_substring": "dimensionality of input and output is d_model=512, and the inner-layer has dimensionality d_ff=2048"
+  },
+  {
+    "id": 13,
+    "doc": "1706.03762v7.pdf",
+    "question": "What is the per-layer complexity and sequential operations count of a Self-Attention layer?",
+    "gold_passage_substring": "self-attention | o(n^2 . d) | o(1) | o(1)"
+  },
+  {
+    "id": 14,
+    "doc": "1706.03762v7.pdf",
+    "question": "What warmup_steps value is used in the Transformer learning rate schedule?",
+    "gold_passage_substring": "we used warmup_steps = 4000"
+  },
+  {
+    "id": 15,
+    "doc": "1706.03762v7.pdf",
+    "question": "Why did the Transformer authors choose sinusoidal positional encodings over learned ones?",
+    "gold_passage_substring": "we chose the sinusoidal version because it may allow the model to extrapolate to sequence lengths longer"
+  }
+]
